@@ -796,5 +796,12 @@ footer .security .text p {
     font-weight: 400;
     font-size: 16px;
 }
+.header-image {
+    height: 100%; /* Adjusts height to fill the header */
+    max-height: 120px; /* Example maximum height */
+    width: auto; /* Maintains aspect ratio */
+    display: block; /* Removes any inline gaps */
+  }
+  
 
 /*last footer css end*/

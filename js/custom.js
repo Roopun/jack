@@ -47,7 +47,7 @@ $(document).ready(function () {
 
     var typed = new Typed('#jackpot-type', {
         // Waits 1000ms after typing "First"
-        strings: ['oday’s Jackpot', 'oday’s Jackpot'],
+        strings: ['oday’s Jackpot Result', 'oday’s Jackpot Result'],
         typeSpeed: 300,
         loop: true,
         backSpeed: 300,
